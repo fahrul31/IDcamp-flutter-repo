@@ -1,0 +1,47 @@
+{
+    "creators": [
+        {
+            "id": "p1",
+            "photo": "https://i.pinimg.com/564x/2a/a1/59/2aa1598645fa1b4f784ed8f8c1ca3b03.jpg",
+            "name": "Mr. Andrew",
+            "title": "Ngobrol Bisnis: Cara Membangun Startup dari Nol",
+            "job": "Konten Kreator",
+            "description": "Dalam acara ini, Anda akan diajarkan cara membangun bisnis startup dari awal hingga sukses. Anda akan belajar dari sang ahli bisnis yang sudah berpengalaman dan berhasil membangun startupnya sendiri. Anda juga akan mendapatkan kesempatan untuk bertemu secara online dengan ahlinya.",
+            "category": [
+                "Edukasi",
+                "Bisnis"
+            ],
+            "status": "live",
+            "time": "Minggu, 4 Mar 2023, 20.00-21.00"
+        },
+        {
+            "id": "p2",
+            "photo": "https://i.pinimg.com/736x/d0/eb/aa/d0ebaaaa551c675cfd9ee78d26398a6d.jpg",
+            "name": "Dr. Budi",
+            "title": "Seminar Kesehatan Gigi: Belajar dari Pengalaman Dr. Budi dalam Kedokteran Gigi",
+            "job": "Dokter Gigi",
+            "description": "Dr. Budi siap berbagi pengetahuannya dalam bidang kedokteran gigi di seminar ini. Dalam sesi edukasinya, Anda akan mendapatkan wawasan berharga tentang perawatan gigi, pencegahan, dan pentingnya menjaga kesehatan gigi Anda. Jangan lewatkan kesempatan untuk belajar dari pengalaman dan keahliannya yang luas dalam dunia kedokteran gigi.",
+            "category": [
+                "Kesehatan",
+                "Bisnis",
+                "Edukasi"
+            ],
+            "status": "dalam 5 hari",
+            "time": "Minggu, 10 Mar 2023, 20.00-21.00"
+        },
+        {
+            "id": "p3",
+            "photo": "https://i.pinimg.com/736x/56/3f/8b/563f8b4e767bffe4b0f71522f2d419fc.jpg",
+            "name": "Ms. lesti",
+            "title": "Navigasi Sukses dalam Era Digital: Strategi Pemasaran Online yang Efektif",
+            "job": "Konten Kreator",
+            "description": "Dalam acara ini, Anda akan memperoleh pemahaman mendalam tentang strategi pemasaran online yang dapat membawa bisnis Anda ke puncak kesuksesan di era digital. Kami akan menghadirkan para pakar pemasaran digital yang telah berhasil meraih hasil luar biasa. Dengan wawasan dan kiat yang mereka bagikan, Anda akan dapat mengembangkan kehadiran online Anda, meningkatkan visibilitas bisnis, dan mencapai target penjualan yang lebih tinggi. Segera bergabung dan kuasai seni pemasaran digital untuk masa depan yang lebih cerah bagi bisnis Anda.",
+            "category": [
+                "E-Commerce",
+                "Teknologi dan Inovasi"
+            ],
+            "status": "dalam 2 hari",
+            "time": "Minggu, 6 Mar 2023, 20.00-21.00"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "reviews": [
+        {
+            "id": "p1",
+            "name": "Mr. Andrew",
+            "job": "Konten Kreator",
+            "review": "Mr. Andrew adalah seorang pengusaha berpengalaman dengan pengalaman lebih dari 10 tahun. Beliau mengkhususkan diri dalam berbagai bidang bisnis dan menyediakan beragam layanan."
+        },
+        {
+            "id": "p2",
+            "name": "Dr. Budi",
+            "job": "Dokter Gigi",
+            "review": "Dr. Andrew adalah seorang dokter gigi berpengalaman dengan lebih dari 10 tahun praktik. Ia mengkhususkan diri dalam kedokteran gigi umum dan menawarkan berbagai layanan."
+        },
+        {
+            "id": "p3",
+            "name": "Ms. lesti",
+            "job": "Konten Kreator",
+            "review": "Ms. lesti adalah seorang pengusaha berpengalaman dengan pengalaman lebih dari 10 tahun. Beliau mengkhususkan diri dalam berbagai bidang bisnis dan menyediakan beragam layanan."
+        }
+    ]
+}
